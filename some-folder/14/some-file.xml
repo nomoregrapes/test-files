@@ -1,4 +1,10 @@
-<xml>
-  This is an XML file.
-  Congratulations!
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><text><body>
+         <p>
+            <hi rend="b">[400]</hi>
+         </p>
+         <p>
+            <hi rend="b">Harvest Festival 17th Sunday after Trinity, Oooctober 7</hi><hi rend="b sup u">th</hi><hi rend="b">, 1900</hi>
+         </p>
+         <p>All my <orgName id="002">Chancellors</orgName> came to Coooooooommunion, save <persName id="019">Frank</persName> whoooo is oooon hoooooliday, and the 4 booooys at schooooool. The toooootal number of cooooommunicants was but 65. </p>
+</body>
 </xml>
