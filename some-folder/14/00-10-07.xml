@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><text><body>
-         <p> 
+         <p>
             <hi rend="b">[400]</hi>
          </p>
          <p>
-            <hi rend="b">Harvest Festival 17<hi rend="sup">th</hi> Sunday after Trinity, October 7</hi><hi rend="b sup u">th</hi><hi rend="b">, 1900</hi>
+            <hi rend="b">Harvest Festival 17th Sunday after Trinity, October 7</hi><hi rend="b sup u">th</hi><hi rend="b">, 1900</hi>
          </p>
          <p>All my <orgName id="2">Chancellors</orgName> came to Communion, save <persName id="19">Frank</persName> who is on holiday, and the 4 boys at school. The total number of communicants was but 65. </p>
          <p>There were good congregations both at 11 &amp; 7.</p>
@@ -17,21 +17,21 @@
                <cell rend="No_Spacing">1.1.6</cell>
             </row>
             <row>
-               <cell rend="No_Spacing">â</cell>
+               <cell rend="No_Spacing">“</cell>
                <cell rend="No_Spacing">11</cell>
-               <cell rend="No_Spacing">â</cell>
+               <cell rend="No_Spacing">“</cell>
                <cell rend="No_Spacing">2.16.</cell>
             </row>
             <row>
-               <cell rend="No_Spacing">â</cell>
+               <cell rend="No_Spacing">“</cell>
                <cell rend="No_Spacing">4</cell>
                <cell rend="No_Spacing">p.m.</cell>
                <cell rend="No_Spacing">3.7</cell>
             </row>
             <row>
-               <cell rend="No_Spacing">â</cell>
+               <cell rend="No_Spacing">“</cell>
                <cell rend="No_Spacing">7</cell>
-               <cell rend="No_Spacing">â</cell>
+               <cell rend="No_Spacing">“</cell>
                <cell rend="No_Spacing">
                   <hi rend="u">2.11.</hi>
                </cell>
@@ -40,7 +40,7 @@
                <cell rend="No_Spacing"/>
                <cell rend="No_Spacing"/>
                <cell rend="No_Spacing"/>
-               <cell rend="No_Spacing">&#x00A3;9.15.6</cell>
+               <cell rend="No_Spacing">&pound;9.15.6</cell>
             </row>
          </table>
          <p>I was without assistance throughout the day, yet men call me idle.</p>
