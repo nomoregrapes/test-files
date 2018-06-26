@@ -1,12 +1,12 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><text><body>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
        <p>
-            <hi rend="b">[399]</hi>
+            <hi rend="bold">[399]</hi>
          </p>
      
          <p>
-            <hi rend="b">Wednesday, October 3</hi><hi rend="b sup u">rd</hi><hi rend="b">, 1900</hi>
+            <hi rend="bold">Wednesday, October 3</hi><hi rend="bold superscript underline">rd</hi><hi rend="bold">, 1900</hi>
          </p>
-         <p>I worked at my lecture for Sunday afternoon, and called on <persName id="15">Molony</persName>, and had a talk about the <orgName id="2">Guild</orgName> with <persName id="16">Wallie Spelling</persName> &amp; <persName id="17">Harry Knight</persName>, and read the election results, which, on the whole, are encouraging.<note id="1" n="1"></note></p>
+         <p>I worked at my lecture for Sunday afternoon, and called on <persName xml:id="15">Molony</persName>, and had a talk about the <orgName xml:id="2">Guild</orgName> with <persName xml:id="16">Wallie Spelling</persName> &amp; <persName xml:id="17">Harry Knight</persName>, and read the election results, which, on the whole, are encouraging.<note xml:id="1" n="1"></note></p>
          <p>
             
          </p>
