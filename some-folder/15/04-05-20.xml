@@ -1,17 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><text><body>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
          <p>
-<hi rend="b">[303]</hi>
+<hi rend="bold">[303]</hi>
          </p>
          <p>
-<hi rend="b">Friday, May 20</hi><hi rend="b sup u">th</hi><hi rend="b">, 1904.</hi>
+<hi rend="bold">Friday, May 20</hi><hi rend="bold superscript underline">th</hi><hi rend="bold">, 1904.</hi>
          </p>
-         <p><persName id="112">Ella</persName> and I attended the Prize distribution in S. Margaret's Schools. After which there was a meeting of managers at which <persName id="565">Rute</persName> announced that we ended the final year of "voluntaryism" with a balance of &#x00A3;7: which would be increased presently by about &#x00A3;40, the amount of the Government grant for the month of April.</p>
-         <p>This afternoon E. made an interesting communication to me.<note id="30" n="1"></note></p>
+         <p><persName xml:id="112">Ella</persName> and I attended the Prize distribution in S. Margaret's Schools. After which there was a meeting of managers at which <persName xml:id="565" display="no">Rute</persName> announced that we ended the final year of "voluntaryism" with a balance of &#x00A3;7: which would be increased presently by about &#x00A3;40, the amount of the Government grant for the month of April.</p>
+         <p>This afternoon E. made an interesting communication to me.<note xml:id="30" n="1"></note></p>
          <p>
-<hi rend="i b u"><persName id="491">Lady F. Balfour</persName></hi><hi rend="i"> wired for me to dine, which I was able to do.  <persName id="314">Hugh Cecil</persName>, <persName id="566">Fleming</persName>, </hi><persName id="567"><hi rend="i">M</hi><hi rend="i superscript underline">r</hi></persName><hi rend="i"> &amp; </hi><persName id="1842"><hi rend="i">M</hi><hi rend="i superscript underline">rs</hi><hi rend="i"> Saintsbury</hi></persName><hi rend="i">, &amp; <persName id="568">Eustace Balfour</persName> made up the party.</hi>
+<hi rend="italic bold underline"><persName xml:id="491">Lady F. Balfour</persName></hi><hi rend="italic"> wired for me to dine, which I was able to do.  <persName xml:id="314">Hugh Cecil</persName>, <persName xml:id="566">Fleming</persName>, </hi><persName xml:id="567"><hi rend="italic">M</hi><hi rend="i superscript underline">r</hi></persName><hi rend="italic"> &amp; </hi><persName xml:id="1842"><hi rend="italic">M</hi><hi rend="i superscript underline">rs</hi><hi rend="italic"> Saintsbury</hi></persName><hi rend="italic">, &amp; <persName xml:id="568">Eustace Balfour</persName> made up the party.</hi>
          </p>
          <p>
-<hi rend="b">[304]</hi>
+<hi rend="bold">[304]</hi>
          </p><div type="verse">
          <p>O Spirit of Jesus guide my way in the world,<lb/>
          and make me a witness of Thine own Love.<lb/>
@@ -40,4 +40,4 @@
          <p>
             
          </p>
-         </body></text>
+         </body></text></TEI>

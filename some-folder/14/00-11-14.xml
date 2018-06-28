@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
          <p>
             <hi rend="bold">[412]</hi>
          </p>
@@ -15,4 +15,4 @@
          <p>O Eternal &amp; Merciful God, I come to Thee in this time of need. Thou knowest all my weakness and my sin: &amp; yet Thou callest me to do this great thing. Enable what thou dost command. Have compassion on my weakness, &amp; forgive me all my sin. Grant to me the guidance &amp; comfort of Thy Holy Spirit that I may discern rightly Thy purpose, and answer obediently thereto. Show Thou me the way that I should walk in, for I lift up my soul unto Thee. Look with pity on Thy children in this place, whose teacher, tho' unworthy, I have been. Suffer not my departure to unsettle their minds, but in Thy Providence send here a true shepherd of souls to pasture Thy flock. Especially bless, I pray Thee, the members of the Guild, the Church Officers, &amp; Choirmen, that the spirit of faction find no entrance among them. Overrule all the changes &amp; chances of this world for the benefit of souls, &amp; the setting forward among men of Thy Righteous Kingdom, and grant us all to hold firmly to Thy Truth whatever betide us. Bless us now, O Eternal Father, for Jesus Christ's sake, our most holy Redeemer.</p>
          <p>Amen.  
          </p>
-         </body></text>
+         </body></text></TEI>

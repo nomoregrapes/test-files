@@ -1,19 +1,19 @@
-<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><text><body>
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="styles.xsl" ?><TEI version="3.3.0" xmlns="http://www.tei-c.org/ns/1.0"><teiHeader><fileDesc><titleStmt><title>An entry from the Journals of Hensley Henson</title></titleStmt><publicationStmt><distributor>Durham University</distributor></publicationStmt><sourceDesc><bibl>Edited from the manuscripts in the custody of Durham Cathedral Library.</bibl></sourceDesc></fileDesc></teiHeader><text><body>
          <p>
-<hi rend="b">[155]</hi>
+<hi rend="bold">[155]</hi>
          </p>
          <p>
-<hi rend="b">4</hi><hi rend="b sup u">th</hi><hi rend="b"> Sunday after Epiphany, February 1</hi><hi rend="b sup u">st</hi><hi rend="b">, 1903.</hi>
+<hi rend="bold">4</hi><hi rend="bold superscript underline">th</hi><hi rend="bold"> Sunday after Epiphany, February 1</hi><hi rend="bold superscript underline">st</hi><hi rend="bold">, 1903.</hi>
          </p>
-         <p>My long residence at the Abbey being now ended, I went to <orgName id="16">S. Margaret's</orgName> for the Celebration at 8 a.m. There were but 20 communicants.</p>
+         <p>My long residence at the Abbey being now ended, I went to <orgName xml:id="16">S. Margaret's</orgName> for the Celebration at 8 a.m. There were but 20 communicants.</p>
          <p>At Mattins there was a moderate congregation; I preached on 'Christianity, the Climax of Theism'.</p>
-         <p>In the afternoon I went to the <orgName id="15">Oxford House</orgName>, and gave the first of <event id="9">three lectures</event> on "Has Christianity Failed?" The first sub-subject was "The Challenge of Reason". I discoursed for 3/4 of an hour to a fair audience of men, &amp; afterwards answered some comparatively relevant questions.</p>
-         <p><persName id="293">Edwin Saxton</persName> &amp; <persName id="113">Harold Knowling</persName> accompanied me, &amp; seemed much impressed with the Oxford House.  </p>
-         <p><persName id="62">Kirshbaum</persName> preached an excellent sermon at Evensong.</p>
+         <p>In the afternoon I went to the <orgName xml:id="15">Oxford House</orgName>, and gave the first of <listEvent><event xml:id="9" display="no">three lectures</event></listEvent> on "Has Christianity Failed?" The first sub-subject was "The Challenge of Reason". I discoursed for 3/4 of an hour to a fair audience of men, &amp; afterwards answered some comparatively relevant questions.</p>
+         <p><persName xml:id="293">Edwin Saxton</persName> &amp; <persName xml:id="113">Harold Knowling</persName> accompanied me, &amp; seemed much impressed with the Oxford House.  </p>
+         <p><persName xml:id="62">Kirshbaum</persName> preached an excellent sermon at Evensong.</p>
          <p>
-<hi rend="b">[156]</hi>
+<hi rend="bold">[156]</hi>
          </p>
-         <p>Memo:- Feb: 2<hi rend="sup u">nd</hi> 1903.</p>
+         <p>Memo:- Feb: 2<hi rend="superscript underline">nd</hi> 1903.</p>
          <p>These accounts were brought to me for payment</p>
          <table rend="rules">
             <row>
@@ -55,7 +55,7 @@
             <row>
                <cell rend="No_Spacing">House-Books</cell>
                <cell rend="No_Spacing">
-<hi rend="u">3.16.7</hi>
+<hi rend="underline">3.16.7</hi>
                </cell>
             </row>
             <row>
@@ -65,7 +65,7 @@
             <row>
                <cell rend="No_Spacing"/>
                <cell rend="No_Spacing">
-<hi rend="u">3.10½</hi>
+<hi rend="underline">3.10½</hi>
                </cell>
             </row>
             <row>
@@ -93,7 +93,7 @@
             <row>
                <cell rend="No_Spacing"/>
                <cell rend="No_Spacing">
-<hi rend="u">50.6.11</hi>
+<hi rend="underline">50.6.11</hi>
                </cell>
             </row>
             <row>
@@ -103,7 +103,7 @@
             <row>
                <cell rend="No_Spacing"/>
                <cell rend="No_Spacing">
-<hi rend="u">3.0.7</hi>
+<hi rend="underline">3.0.7</hi>
                </cell>
             </row>
             <row>
@@ -113,7 +113,7 @@
             <row>
                <cell rend="No_Spacing"/>
                <cell rend="No_Spacing">
-<hi rend="u">.10.6</hi>
+<hi rend="underline">.10.6</hi>
                </cell>
             </row>
             <row>
@@ -124,4 +124,4 @@
          <p>
             
          </p>
-         </body></text>
+         </body></text></TEI>
